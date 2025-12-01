@@ -130,3 +130,4 @@ Contact the development team at the University of Bologna
 
 
 ViFoSe - Video Foreground Segmentation Tool Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi" University of Bologna, Italy Copyright © 2025 - All rights reserved
+<img width="1759" height="1606" alt="image" src="https://github.com/user-attachments/assets/5b4ee328-7aa8-4cba-b6a0-e854f706b204" />
