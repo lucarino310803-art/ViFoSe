@@ -1,5 +1,4 @@
 ViFoSe (Video Foreground Segmentation)
-<img width="2428" height="931" alt="image" src="https://github.com/user-attachments/assets/05e383de-3b36-4581-a596-24a8900e6ca8" />
 
 ViFoSe is a MATLAB application specialized in foreground segmentation of video sequences, developed at the University of Bologna. The platform integrates manual and automatic segmentation tools for the analysis and processing of video content in academic and professional settings.
 
@@ -129,7 +128,4 @@ Use the "About Us" panel
 Contact the development team at the University of Bologna
 
 
-ViFoSe - Video Foreground Segmentation Tool Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi" University of Bologna, Italy Copyright © 2026 - All rights reserved
-
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5b4ee328-7aa8-4cba-b6a0-e854f706b204" />
+ViFoSe - Video Foreground Segmentation Tool Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi" University of Bologna, Italy Copyright © 2026 - All rights reserved.
